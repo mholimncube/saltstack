@@ -1,4 +1,4 @@
-install apache:
+install_apache:
    pkg.installed:
      - pkgs:
        - httpd
