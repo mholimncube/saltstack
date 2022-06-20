@@ -1,2 +1,2 @@
 # saltstack
-testing out salt 
+testing out salt basically
